@@ -205,4 +205,15 @@ button{
     .container-button{
         margin-top: 10px;
     }
+
+    /*Second section*/
+
+    .summary{
+        width: 100%;
+    }
+
+    table{
+        width: 100%;
+        text-align: center;
+    }
 }
